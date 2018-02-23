@@ -1,0 +1,87 @@
+.main_body{
+  position: relative;
+  justify-content: center;
+  margin: auto;
+  width: 850px;
+  height: 100vh;
+  background-color: white;
+}
+
+.login{
+  height: 40px;
+  width: 130px;
+  background-color: #8aea92;
+  color: black;
+  border: none;
+}
+
+.register{
+  height: 40px;
+  width: 130px;
+  background-color: #3b5249;
+  color: white;
+  border: none;
+}
+
+.dashboard_header{
+  color: white;
+  background-color: #519872;
+  height: 75px;
+  width: 100vw;
+  font-size: 30px;
+}
+
+.houser{
+  font-weight: bold;
+}
+
+.logout{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.dashboard_body{
+  position: relative;
+  justify-content: center;
+  margin: auto;
+  width: 759px;
+  height: 100vh;
+  background-color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.password{
+  display: block;
+}
+
+.username{
+  display: block;
+}
+
+.statuses{
+  display: inline-block;
+  position: relative;
+}
+
+.property_textarea{
+  height: 106px;
+  width: 509.3px;
+  resize: none;
+}
+
+.nextStep{
+  background-color: #3b5249;
+  width: 130.27px;
+  height: 38px;
+  color: white;
+}
+
+.imagebox{
+  width: 505.3px;
+  height: 302px;
+  background-color: #dedede;
+}
